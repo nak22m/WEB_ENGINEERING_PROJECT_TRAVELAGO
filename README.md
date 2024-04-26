@@ -1,4 +1,6 @@
-# Setting Up the Travelago app
+# Setting Up the Travelago app 
+
+## Contributed and created by : UI21CS34(Nakul Mantri) & UI21CS23(Jaydip Bawane)
 
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
 
