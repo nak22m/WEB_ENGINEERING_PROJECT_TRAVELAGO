@@ -4,6 +4,11 @@
 
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
 
+## About
+**TRAVELAGO**
+
+Travelago is the name of our full stack web development that we’ve created, which is a vacation home renting website having a plethora of functionalities. It’s basically a site where people willing to rent their villas and farmhouses can easily post about the various amenities about their house and the vicinity it possess. It also aids them to make it possible for people searching to spend their holidays lavishly with their families without much issues. It enables them to have an access to the location where the house is situated. It’s an initiative took to have a source of income for those people as well. It serves as an efficient medium between the buyers and renters. It encompasses numerous components ranging from a user-friendly homepage to display of pictures of the vacation home. It allows users from any corner of the world to check if they have any vacation home available in their surroundings. It’s prototype which does have a future scope of improvement to implement the feature of payment via back account and also the tracking of location where the user is. Its database can also be made more vast so as to have an immense amount of entries so as to have maximum number of options. Thus, due to an exponential increase in the demand of masses to spend their vacation in a homely environment and to have a warm hospitality with reasonable prices per night, as well are aware of the fact that resorts charge an exorbitantly high amount just to spend an entire week there and the hospitality isn’t upto the mark as well. Therefore, in order to allow people to help people the tale of this website began.  
+
 ## Prerequisites
 
 Before you begin, ensure you have Node.js installed on your system.
@@ -54,7 +59,4 @@ npm tailwindcss init
    npm install axios bcyrpt cookie-parser cors express mongoose multer nodemailer-sendgrid-transport nodemon fs image-downloader
    ```
 
-## About
-**TRAVELAGO**
 
-Travelago is the name of our full stack web development that we’ve created, which is a vacation home renting website having a plethora of functionalities. It’s basically a site where people willing to rent their villas and farmhouses can easily post about the various amenities about their house and the vicinity it possess. It also aids them to make it possible for people searching to spend their holidays lavishly with their families without much issues. It enables them to have an access to the location where the house is situated. It’s an initiative took to have a source of income for those people as well. It serves as an efficient medium between the buyers and renters. It encompasses numerous components ranging from a user-friendly homepage to display of pictures of the vacation home. It allows users from any corner of the world to check if they have any vacation home available in their surroundings. It’s prototype which does have a future scope of improvement to implement the feature of payment via back account and also the tracking of location where the user is. Its database can also be made more vast so as to have an immense amount of entries so as to have maximum number of options. Thus, due to an exponential increase in the demand of masses to spend their vacation in a homely environment and to have a warm hospitality with reasonable prices per night, as well are aware of the fact that resorts charge an exorbitantly high amount just to spend an entire week there and the hospitality isn’t upto the mark as well. Therefore, in order to allow people to help people the tale of this website began.  
